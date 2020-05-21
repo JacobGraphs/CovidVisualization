@@ -20,3 +20,7 @@ Like all data, there is much for clean up. With more time, I would eliminate all
 Looking at the death count data within the bing dataset, it's clear the generation's around will have a trauma-scar for the rest of their lives. We are looking at states such as New York and New Jersey seeing devastating cases and deaths. We are looking at huge deaths per day in the USA. It appears we reached a local peak of 10,000 deaths per dayback in April. As more and more states continue to push for large public gatherings and tightly close quartered employment, especially in the restaurant and retail sectors, this peak will not be the actual peak. States hit the hardest are California, Connecticut, Illinois, Michigan, New Jersey, New York, and Pennsylvania. Countries hit the hardest are Bolivia, Colombia, India, Iran, Mexico, Netherlands, Peru, Russia, Sweden, and Turkey. A stark reminder that this data is only as good as it's sources, many data focused sources are claiming death counts are likely higher than reported.
 
 #### Visualization
+
+##### Deaths per Day in the USA
+![Image description]
+(https://github.com/JacobGraphs/CovidVisualization/blob/master/Images/US_Deaths_per_Day.png)
